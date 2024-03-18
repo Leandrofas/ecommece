@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "Leandrofas/ecommece",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Leandro Franchi",
+            "email": "leandro.franchi.souza@gmail.com"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Leandrofas": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
