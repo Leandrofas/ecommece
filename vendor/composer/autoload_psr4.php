@@ -6,5 +6,7 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+
     '' => array($vendorDir . '/hcodebr/php-classes/src'),
+
 );
