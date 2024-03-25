@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'leandrofas/ecommece',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'e7b2d26d0b40fe16b11f711f85f88dfc58c0582e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'leandrofas/ecommece' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'e7b2d26d0b40fe16b11f711f85f88dfc58c0582e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
